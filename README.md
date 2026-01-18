@@ -42,7 +42,7 @@ Built with **Java** and powered by **Google Firebase** for real-time data synchr
 
 | Login Screen | Admin Dashboard | Student View |
 |:---:|:---:|:---:|
-| <img src="https://via.placeholder.com/200x400?text=Login" width="200"> | <img src="https://via.placeholder.com/200x400?text=Admin+Dash" width="200"> | <img src="https://via.placeholder.com/200x400?text=Student+View" width="200"> |
+| <img src="https://github.com/yawar2518/libraryManagementSystem-android-Application/blob/main/images/login_screen.png" width="200"> | <img src="https://via.placeholder.com/200x400?text=Admin+Dash" width="200"> | <img src="https://via.placeholder.com/200x400?text=Student+View" width="200"> |
 
 ---
 
