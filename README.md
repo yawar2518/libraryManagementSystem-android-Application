@@ -50,7 +50,7 @@ Built with **Java** and powered by **Google Firebase** for real-time data synchr
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/LibraryManagementSystem.git](https://github.com/YOUR_USERNAME/LibraryManagementSystem.git)
+    git clone https://github.com/yawar2518/libraryManagementSystem-android-Application.git
     ```
 2.  **Open in Android Studio**
     * Open Android Studio -> File -> Open -> Select the cloned folder.
@@ -73,4 +73,4 @@ Built with **Java** and powered by **Google Firebase** for real-time data synchr
 
 ## 📝 License
 
-This project was developed as a Semester Project for [University Name].
+This project was developed as a Semester Project for the University of Management and Technology.
