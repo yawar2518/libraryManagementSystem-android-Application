@@ -69,6 +69,8 @@ Built with **Java** and powered by **Google Firebase** for real-time data synchr
 * **Borrowing System:** Feature for students to "Check Out" books with due dates.
 * **Profile Management:** User profile pictures and password reset functionality.
 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---
 
 ## 📝 License
