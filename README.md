@@ -70,8 +70,6 @@ Built with **Java** and powered by **Google Firebase** for real-time data synchr
 * **Profile Management:** User profile pictures and password reset functionality.
 
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
----
 
 ## 📝 License
 
